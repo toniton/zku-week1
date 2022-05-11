@@ -4,6 +4,11 @@ coverage
 coverage.json
 typechain
 
-#Hardhat files
+# Hardhat files
 cache
 artifacts
+
+# System generated files
+.DS_Store
+.DS_Store?
+*.DS_Store
